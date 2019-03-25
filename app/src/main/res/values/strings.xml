@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RHRegistration</string>
+    <string name="masukkan_nama">Masukkan Nama</string>
+    <string name="masukkan_alamat">Masukkan Alamat</string>
+    <string name="masukkan_nomor_telephone">Masukkan Nomor telephone</string>
+    <string name="send">Send</string>
+    <string name="registered">Registered</string>
+    <string name="registration">Registration</string>
+    <string name="share">Share</string>
+</resources>
